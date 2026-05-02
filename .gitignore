@@ -1,0 +1,10 @@
+*.log
+.env
+backtests/
+imc_backtests/
+prosperity_rust_backtester
+requirements.txt
+runs/
+__pycache__/
+.venv
+.ruff*
